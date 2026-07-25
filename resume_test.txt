@@ -1,0 +1,7 @@
+John Doe
+Senior Software Engineer
+Skills: Java, Spring Boot, MongoDB, React, Node.js, REST APIs, Microservices, Git, Docker, Kubernetes.
+Experience:
+- Senior Software Engineer at Tech Corp (2022-Present): Led backend team, migrated monolithic app to microservices, improved system throughput by 40%.
+- Software Engineer at StartUp Inc (2020-2022): Developed responsive frontend pages using React, designed database schemas in MongoDB.
+Education: B.S. in Computer Science.
